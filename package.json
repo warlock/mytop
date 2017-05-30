@@ -2,9 +2,11 @@
   "name": "mytop",
   "version": "1.6.0",
   "description": "MYSQL TOP",
-  "main": "index.js",
+  "bin": {
+    "mytop" : "./mytop"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "./mytop"
   },
   "keywords": [],
   "author": "",
