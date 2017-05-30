@@ -1,15 +1,15 @@
 mytop version 1.6
 ===
 
-# WEB
+### WEB
 
   http://jeremy.zawodny.com/mysql/mytop/
 
-# MAILING LIST
+### MAILING LIST
 
   http://www.advanced-mysql.com/cgi-bin/mailman/listinfo/mytop
 
-# ABOUT
+### ABOUT
 
   mytop is a `top' clone for MySQL
 
@@ -19,23 +19,23 @@ mytop version 1.6
   installed. And with Term::ANSIColor installed you even get color. As
   of version 0.7, it even runs on Windows (somewhat).
 
-# NPM INSTALLATION
+### NPM INSTALLATION
 ```sh
   npm install -g mytop
 ```
 
-# DOCUMENTATION
+### DOCUMENTATION
 [http://jeremy.zawodny.com/mysql/mytop/mytop.html](http://jeremy.zawodny.com/mysql/mytop/mytop.html)
 
-# AUTHOR
+### AUTHOR
 
   Jeremy D. Zawodny <Jeremy@Zawodny.com>
 
-# NPM PACKAGE
+### NPM PACKAGE
 
   Josep Subils <josep@spellbook.io>
 
-# COPYRIGHT
+### COPYRIGHT
 ```
   mytop is licensed under the GNU General Public License version
   2. For the full license information, please visit
