@@ -8,6 +8,10 @@
   "scripts": {
     "start": "./mytop"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/warlock/mytop.git"
+  },
   "keywords": ["mysql", "mytop", "phpmyadmin", "myadmin", "sql", "top"],
   "author": "Jeremy D. Zawodny <Jeremy@Zawodny.com>",
   "license": "GPL-2.0"
