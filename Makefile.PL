@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 WriteMakefile(
               'NAME'		=> 'mytop',
               'VERSION_FROM'	=> 'mytop', # finds $VERSION
-              'EXE_FILES'		=> [ 'mytop' ],
+              'EXE_FILES'		=> [ './bin/mytop' ],
               'PREREQ_PM'		=> {
                                             Term::ReadKey => 2.10,
                                             DBI           => 1.13,
