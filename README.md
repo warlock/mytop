@@ -2,15 +2,21 @@ mytop version 1.6
 ===
 
 ### WEB
+http://jeremy.zawodny.com/mysql/mytop/
 
-  http://jeremy.zawodny.com/mysql/mytop/
+### NPM INSTALLATION
+```sh
+  npm install -g mytop
+```
+
+### NPM WEB
+https://www.npmjs.com/package/mytop
 
 ### MAILING LIST
-
-  http://www.advanced-mysql.com/cgi-bin/mailman/listinfo/mytop
+http://www.advanced-mysql.com/cgi-bin/mailman/listinfo/mytop
 
 ### ABOUT
-
+```
   mytop is a `top' clone for MySQL
 
   mytop is a console-based (non-gui) tool for monitoring the threads
@@ -18,22 +24,16 @@ mytop version 1.6
   runs on most Unix systems which have Perl, DBI, and Term::ReadKey
   installed. And with Term::ANSIColor installed you even get color. As
   of version 0.7, it even runs on Windows (somewhat).
-
-### NPM INSTALLATION
-```sh
-  npm install -g mytop
 ```
 
 ### DOCUMENTATION
 [http://jeremy.zawodny.com/mysql/mytop/mytop.html](http://jeremy.zawodny.com/mysql/mytop/mytop.html)
 
 ### AUTHOR
-
-  Jeremy D. Zawodny <Jeremy@Zawodny.com>
+Jeremy D. Zawodny <Jeremy@Zawodny.com>
 
 ### NPM PACKAGE
-
-  Josep Subils <josep@spellbook.io>
+Josep Subils <josep@spellbook.io>
 
 ### COPYRIGHT
 ```
